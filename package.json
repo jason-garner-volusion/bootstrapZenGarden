@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/jason-garner-volusion/bootstrapZenGarden/issues"
   },
-  "homepage": "https://github.com/jason-garner-volusion/bootstrapZenGarden#readme"
+  "homepage": "https://github.com/jason-garner-volusion/bootstrapZenGarden#readme",
+  "devDependencies": {
+    "http-server": "^0.9.0"
+  }
 }
